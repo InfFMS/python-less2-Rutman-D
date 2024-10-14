@@ -1,16 +1,14 @@
-# This is a sample Python script.
+a = int(input())
+if a == 1:
+    print("8:30 - 9:15")
+elif a == 2:
+    print("9:25 - 10:10")
+elif a == 2:
+    print("10:20 - 11:05")
+elif a == 2:
+    print("11:15 - 12:00")
+elif a == 2:
+    print("12:30 - 13:15")
+elif a == 2:
+    print("13:25 - 14:10")
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
